@@ -31,8 +31,8 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: 'Blake Repo',
+      link: 'https://github.com/blakeanneberg',
       target: '_blank'
     },
     {
