@@ -1,4 +1,12 @@
 ---
+title: Old Posts
+subtitle: Old stuff
+category:
+  - About Awake
+author: Blake
+date: 2021-5-02T10:10:10.800Z
+featureImage: /uploads/markup-hero.jpg
+---
 The `ResourceGrid` powers the grid display of both posts and categories in the Awake template. It's a powerful, fast, and flexible component to grab a grid of any size or content when you need it.
 
 | Prop     | Description                                          | Type   | Default           |
