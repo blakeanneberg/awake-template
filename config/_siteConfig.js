@@ -34,11 +34,6 @@ export default {
       name: 'Blake Repo',
       link: 'https://github.com/blakeanneberg',
       target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
     }
   ],
   hero: {
