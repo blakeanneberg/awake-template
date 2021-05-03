@@ -1,5 +1,5 @@
 <template>
-  <form name="contact" method="POST" data-netlify="true">
+  <form name="contact" method="POST" data-netlify="true" action="/about">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
@@ -50,7 +50,7 @@
       </div>
     </div>
     <div class="control">
-      <button class="button is-primary" type="submit">
+      <button class="button is-primary" type="submit" value="Submit" >
         Contact Us
       </button>
     </div>
